@@ -10,7 +10,7 @@
 
 - Data Structures and Algorithms 📚
 - **MERN** Stack ❤️
-- practising problems websites such as [LeetCode](https://leetcode.com/), [HackerRank](https://www.hackerrank.com/) etc. 🖋️
+- practising problems on [LeetCode](https://leetcode.com/), [HackerRank](https://www.hackerrank.com/) etc. 🖋️
 - improving my frontend skills. 💪
 
 ### How to reach me 📫: 

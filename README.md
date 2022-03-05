@@ -2,15 +2,15 @@
 
 ### Who am I?
 
--a learner 🌱
--a student 👨‍🎓
--a web dev **enthusiast** 🧑‍💻
+- a learner 🌱
+- a student 👨‍🎓
+- a web dev **enthusiast** 🧑‍💻
 
 ### I'm currently focused on
 
 - Data Structures and Algorithms 📚
 - **MERN** Stack ❤️
-- practising problems websites such as [HackerRank](https://www.hackerrank.com/), [LeetCode](https://leetcode.com/) etc. 🖋️
+- practising problems websites such as [LeetCode](https://leetcode.com/), [HackerRank](https://www.hackerrank.com/) etc. 🖋️
 - improving my frontend skills. 💪
 
 ### How to reach me 📫: 

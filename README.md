@@ -1,10 +1,10 @@
-## Hi there!👋 Welcome to my GitHub Profile.
+## Hi there!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> Welcome to my GitHub Profile.
 
 ### Who am I?
 
-- a learner 🌱
-- a student 👨‍🎓
-- a web dev **enthusiast** 🧑‍💻
+* a learner 🌱
+* a student 👨‍🎓
+* a web dev **enthusiast** 🧑‍💻
 
 ### I'm currently focused on
 

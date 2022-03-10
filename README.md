@@ -1,4 +1,8 @@
-## Hi there!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> Welcome to my GitHub Profile.
+<h2 align="center">Hi there!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> Welcome to my GitHub Profile.</h2>
+
+<h1 align="center"> I'm Gourav Gupta </h1>
+
+![](https://komarev.com/ghpvc/?username=gouravgupta02&color=62D2A2&style=plastic&label=PROFILE+VIEWS)
 
 ### Who am I?
 

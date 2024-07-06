@@ -7,15 +7,13 @@
 ### Who am I?
 
 * a learner 🌱
-* a student 👨‍🎓
-* a web dev **enthusiast** 🧑‍💻
+* a Software Engineer 👨‍🎓
+* a tech **enthusiast** 🧑‍💻
 
-### I'm currently focused on
+### I'm currently working on
 
-- Data Structures and Algorithms 📚
-- **MERN** Stack ❤️
-- practising problems on [LeetCode](https://leetcode.com/), [HackerRank](https://www.hackerrank.com/) etc. 🖋️
-- improving my frontend skills. 💪
+- Web Dev, Full stack design and development
+- Generative AI
 
 ### How to reach me 📫: 
 

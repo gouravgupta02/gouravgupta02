@@ -1,21 +1,23 @@
-<h2 align="center">Hi there!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> Welcome to my GitHub Profile.</h2>
+<h2 align="center">Hello there!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> Welcome to my GitHub Profile.</h2>
 
 <h1 align="center"> I'm Gourav Gupta </h1>
 
-![](https://komarev.com/ghpvc/?username=gouravgupta02&color=62D2A2&style=plastic&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=gouravgupta02&color=62D2A2&style=plastic&label=PROFILE+VISITS)
 
-### Who am I?
+### About me
 
-* a learner 🌱
-* a Software Engineer 👨‍🎓
-* a tech **enthusiast** 🧑‍💻
+- 🌱 A passionate **Software Engineer** with over **3 years of professional experience**
+- 🧑‍💻 A **tech enthusiast** who loves solving problems through code
+- 🚀 A **continuous learner** always exploring new technologies and best practices
+- 🤝 Believer in collaboration, innovation, and clean, maintainable code
 
-### I'm currently working on
+### I'm Currently Working On
 
-- Web Dev, Full stack design and development
-- Generative AI
+- 🌐 **Full-Stack Web Development** – building and scaling modern web applications
+- 🤖 **Generative AI** – building AI-driven applications and automation
+- ⚙️ **End-to-End Product Development** – from idea to deployment and beyond
 
-### How to reach me 📫: 
+### Let's Connect 📫: 
 
 <a href="mailto:gouravguptagg02@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">

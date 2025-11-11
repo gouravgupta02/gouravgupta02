@@ -14,8 +14,8 @@
 ### I'm Currently Working On
 
 - 🌐 **Full-Stack Web Development** – building and scaling modern web applications end to end
-- 🤖 **Generative AI** – building AI-driven applications and automation
 - ⚙️ **End-to-End Product Development** – from idea to deployment and beyond
+- 🤖 **Generative AI** – building AI-driven applications and automation
 
 ### Let's Get In Touch 📫: 
 

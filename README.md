@@ -11,6 +11,13 @@
 - 🚀 A **continuous learner** always exploring new technologies and best industry practices.
 - 🤝 A believer in collaboration and innovation.
 
+#### Skills and Tools
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=java,php,jenkins,git,github,docker,aws,gcp,postman,mysql,kafka,redis" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,nodejs,tailwindcss" />
+</p>
+
 ### I'm Currently Working On
 
 - 🌐 **Full-Stack Web Development** – building and scaling modern web applications end to end

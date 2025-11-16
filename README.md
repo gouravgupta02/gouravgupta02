@@ -14,7 +14,7 @@
 #### Skills and Tools
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,php,jenkins,git,github,docker,aws,gcp,postman,mysql,kafka,redis,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,php,jenkins,git,github,docker,aws,gcp,postman,mysql,mongodb,kafka,redis,vscode" />
     <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,nodejs,tailwindcss" />
 </p>
 

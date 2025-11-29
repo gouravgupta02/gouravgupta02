@@ -15,7 +15,7 @@
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,php,javascript,jenkins,git,github,docker,aws,gcp,postman,mysql,mongodb,kafka,redis,firebase" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,redux,nodejs,tailwindcss" />
+    <img src="https://skillicons.dev/icons?i=html,css,jquery,react,redux,nodejs,tailwindcss" />
     <img src="https://skillicons.dev/icons?i=windows,linux,apple,vim,vscode,sublime,npm" />
 </p>
 

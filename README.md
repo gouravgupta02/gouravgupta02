@@ -25,7 +25,7 @@
 - ⚙️ **End-to-End Product Development** – from idea to deployment and beyond.
 - 🤖 **Generative AI** – building AI-driven applications and automating tasks.
 
-### Let's Get In Touch 📫: 
+### Let's Get In Touch 📫
 
 <a href="mailto:gouravguptagg02@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">

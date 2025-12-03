@@ -1,4 +1,4 @@
-<h2 align="center">Hey there!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> Welcome to my GitHub Profile.</h2>
+<h2 align="center">Hey there!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> Welcome to my GitHub Profile!</h2>
 
 <h1 align="center"> I'm Gourav Gupta </h1>
 

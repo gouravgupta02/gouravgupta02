@@ -19,7 +19,7 @@
     <img src="https://skillicons.dev/icons?i=windows,linux,apple,vim,vscode,sublime,npm" />
 </p>
 
-### I'm Currently Working On
+### I'm Currently Working On:
 
 - 🌐 **Full-Stack Web Development** – building and scaling modern web applications end to end.
 - ⚙️ **End-to-End Product Development** – from idea to deployment and beyond.

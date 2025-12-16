@@ -10,8 +10,8 @@
 - 🧑‍💻 A **tech enthusiast** who loves solving problems through code and impact millions.
 - 🚀 A **continuous learner** always exploring new technologies and best industry practices.
 - 🤝 A believer in collaboration and innovation.
-
-#### Skills and Tools
+  
+#### Skills and Tools  
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,php,javascript,jenkins,git,github,docker,aws,gcp,postman,mysql,mongodb,kafka,redis,firebase" />

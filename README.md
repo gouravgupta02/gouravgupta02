@@ -14,9 +14,9 @@
 #### Skills and Tools  
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,php,javascript,jenkins,git,github,docker,aws,gcp,postman,mysql,mongodb,postgres,redis,firebase" />
-    <img src="https://skillicons.dev/icons?i=html,css,jquery,react,redux,go,nodejs,expressjs,tailwindcss,kafka" />
-    <img src="https://skillicons.dev/icons?i=windows,linux,apple,vim,vscode,sublime,npm" />
+    <img src="https://skillicons.dev/icons?i=java,php,go,javascript,nodejs,expressjs,docker,aws,gcp,postman,mysql,mongodb,postgres,redis" />
+    <img src="https://skillicons.dev/icons?i=git,github,jenkins,npm,html,css,jquery,react,redux,tailwindcss,kafka,firebase" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,apple,vim,vscode,sublime,antigravity,windsurf" />
 </p>
  
 ### I'm Currently Working On:
